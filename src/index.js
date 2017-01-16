@@ -9,6 +9,8 @@ let Index = function(){
     <Link to="/Other">Other</Link>
     <p></p>
     <code>This is the Index</code>
+    <p></p>
+    <code>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti voluptate, et amet. Ab reprehenderit quas reiciendis et, voluptatem accusamus quibusdam repellat ipsam? Nostrum atque, provident suscipit animi porro ipsam at.</code>
     </div>
   )
 }
